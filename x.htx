@@ -1,0 +1,5 @@
+[label comes here| y ]
+Red text looks like: [red] This is /* normally */ written in red. [end_red]Red
+/* Any comment text here */
+     [label comes here| y ]
+Blue text looks like: [blue] This is normally written in blue.[end_blue]
